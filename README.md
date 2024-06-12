@@ -1,21 +1,20 @@
-# Olá, me chamo Mac!
+# Hello, welcome to my GitHub! 👋
 
-# Bem-vindo ao meu GitHub! 👋
+## About Me
 
-## Sobre Mim
- 
- Tenho 20 anos, sou um estudante apaixonado por tecnologias, atualmente cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer e evoluir como desenvolvedor.
+My name is Mac and I am 20 years old. I am a technology enthusiast, currently studying Systems Analysis and Development. I am always seeking new knowledge and challenges that allow me to grow and evolve as a developer.
 
-## Habilidades
+## Skills
 
-- **Linguagens de Programação**: JavaScript, TypeScript
-- **Frameworks e Bibliotecas**: React, Next.js, Express.js, EJS, Bootstrap
-- **Desenvolvimento Web**: HTML, CSS, Sass
-- **Banco de Dados**: MongoDB
+- **Programming Languages**: JavaScript, TypeScript
+- **Frameworks and Libraries**: React, Next.js, Express.js, EJS, Bootstrap
+- **Web Development**: HTML, CSS, Sass
+- **Database**: MongoDB
 
-## Contato
+## Contact
 
 - **Email**: [andrademacartur@gmail.com](mailto:andrademacartur@gmail.com)
+
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos! 🚀
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch. Let's build something amazing together! 🚀
