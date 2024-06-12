@@ -11,8 +11,11 @@ Meu nome é Mac Artur Neto e tenho 20 anos. Sou um estudante apaixonado por tecn
 - **Desenvolvimento Web**: HTML, CSS, Sass
 - **Banco de Dados**: MongoDB
 
+## Tecnologias
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+          
+
           
 ---
 
