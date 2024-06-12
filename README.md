@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, bem-vindo ao meu GitHub! 👋
 
-<!--
-**1macneto/1macneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Meu nome é Mac Artur Neto e tenho 20 anos. Sou um estudante apaixonado por tecnologias, atualmente cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer e evoluir como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- **Linguagens de Programação**: JavaScript, TypeScript
+- **Frameworks e Bibliotecas**: React, Next.js, Express.js, EJS, Bootstrap
+- **Desenvolvimento Web**: HTML, CSS, Sass
+- **Banco de Dados**: MongoDB
+
+---
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos! 🚀
