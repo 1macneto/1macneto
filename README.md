@@ -1,8 +1,10 @@
-# Olá, bem-vindo ao meu GitHub! 👋
+# Olá, me chamo Mac!
+
+# Bem-vindo ao meu GitHub! 👋
 
 ## Sobre Mim
-
-Meu nome é Mac Artur Neto e tenho 20 anos. Sou um estudante apaixonado por tecnologias, atualmente cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer e evoluir como desenvolvedor.
+ 
+ Tenho 20 anos, sou um estudante apaixonado por tecnologias, atualmente cursando Análise e Desenvolvimento de Sistemas. Estou sempre em busca de novos conhecimentos e desafios que me permitam crescer e evoluir como desenvolvedor.
 
 ## Habilidades
 
@@ -11,7 +13,9 @@ Meu nome é Mac Artur Neto e tenho 20 anos. Sou um estudante apaixonado por tecn
 - **Desenvolvimento Web**: HTML, CSS, Sass
 - **Banco de Dados**: MongoDB
 
-          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+## Contato
+
+- **Email**: [andrademacartur@gmail.com](mailto:andrademacartur@gmail.com)
 ---
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos! 🚀
