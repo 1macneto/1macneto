@@ -9,7 +9,7 @@ My name is Mac and I am 20 years old. I am a technology enthusiast, currently st
 - **Programming Languages**: JavaScript, TypeScript
 - **Frameworks and Libraries**: React, Next.js, Express.js, EJS, Bootstrap
 - **Web Development**: HTML, CSS, Sass
-- **Database**: MongoDB
+- **Database**: PostgreSQL, MongoDB
 
 ## Contact
 
